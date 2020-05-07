@@ -1,0 +1,30 @@
+h1{
+    color:cornflowerblue ;
+}
+
+.one,.two,.three{
+
+    border: 2px solid black;
+    width: 250px;
+
+}
+
+
+
+/* .main{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
+
+.col{
+  
+    /* border: 2px solid red !important; */
+}
+img{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-around !important;
+    padding: 5px 5px 5px 5px;
+}
